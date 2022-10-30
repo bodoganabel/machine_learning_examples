@@ -1,3 +1,9 @@
 If you're here, this means you haven't watched the "where to get the code" lecture very carefully!
 
 Please watch it again, and follow the instructions.
+
+#Please don't be mean to your students. I did watch the "where to get the code" lecture 4 weeks before when I started the course, and now I don't remember the exact location... 
+Now I needed to search the lectures and the information is under a lecture "Extra help with Python Coding for Beginners" > "Where to get the notebooks and data" - that is nothing similar to "where to get the code" (so even the ctrl+f searcing was not helpful). It is an 8 minutest video!
+I mean come on...
+I am an adult with a degree - Electrical Engineer Bsc - and an engineering job. I do this course in my very little free time. I understand your point about not being lazy, but I prefer spend my time actually learning the course I have paid for, instead of running these unnecessary and totally avoidable circles.
+Please fix this document by providing the form link: https://deeplearningcourses.com/coderequest, so others don't need to spend their valuable time searching around.
